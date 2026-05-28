@@ -5,3 +5,11 @@ a-¿ALFA ve los datos que cargaron los demás en su repositorio?
 
 b-¿Si ALFA agrega un archivo los demás integrantes lo ven?
 - ALFA: si
+
+c-¿Si BETA agrega un archivo los demás integrantes lo ven?
+-BETA: si, los demas lo vemos
+
+d-¿De qué forma se comunicaron ustedes?
+-BETA: nos comunicamos mediante discord
+
+
